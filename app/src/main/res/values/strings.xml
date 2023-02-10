@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Role o Dado</string>
+    <string name="btnRoll">Roll</string>
+</resources>
